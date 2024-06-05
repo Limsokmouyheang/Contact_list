@@ -1,0 +1,41 @@
+#container {
+    margin-top: 20px;
+}
+
+.contact-form {
+    background: #fff;
+    margin: 20%;
+    padding: 80px;
+    border-radius: 8px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+    margin-top: 50px;
+}
+
+.contact-form .form-control {
+    height: 55px;
+    margin-bottom: 25px;
+    padding: 5px 20px;
+    font-size: 15px;
+}
+
+
+.btn-success {
+    height: 45px;
+    font-size: 15px;
+    width: 100%;
+    background-color: #08ba64;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.contact-table {
+    margin-top: 50px;
+}
+
+
+
+
